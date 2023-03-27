@@ -14,7 +14,7 @@ The problem is divided into two parts. In the first part, the distributions for 
 
 In the second part, the distributions for the remaining feature pairs are plotted, and the best linear transformation for each distribution is found using trial and error. The projected data in the new subspaces is then displayed.
 
-![Feature Distribution](/assets/images/Feature-Distribution.png)
+![Feature Distribution](/Feature-Distribution.png)
 
 ## Repository Contents
 
